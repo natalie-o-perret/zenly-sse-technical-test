@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c80caafa-ce85-4ae1-aacc-e9ee63c77775" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/INSTRUCTIONS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sketches 1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sketches 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/agraph.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/agraph_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/bgraph.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/bgraph_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/common.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/graph_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/membenchmarks.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/memory.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ldnrhgOe440EclIFvcLtZCYjoJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager" selected="Go Test.go test lib">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="zenly" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test lib" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="zenly" />
+      <working_directory value="$PROJECT_DIR$/src/lib" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/src/lib" />
+      <filePath value="$PROJECT_DIR$/src/lib/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Test.go test lib" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.go test lib" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
