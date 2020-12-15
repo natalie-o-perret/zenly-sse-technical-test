@@ -98,7 +98,7 @@ To be really accurate, depends on whether we want to make copy or not of the pho
 
 ##### Objective
 
-Returns all the contacts for the given phone number.
+Returns all the contacts that have the given phone number.
 
 ##### How to
 
@@ -114,7 +114,7 @@ Returns all the contacts for the given phone number.
 
 For the given example above:
 ```go
-rlookup(x) = [y, z]
+rlookup(z) = [x, y]
 ```
 
 ##### Complexity
